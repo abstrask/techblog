@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Let's try this!"
+date: 2025-03-06 00:36:00 -0000
 tags: n00b github
 categories: github welcome
 ---
