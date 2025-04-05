@@ -1,0 +1,16 @@
+baseURL: https://rask.dk/techblog
+languageCode: en-uk
+title: Rask Techblog
+# theme: 'poison'
+theme: loveit
+# theme: 'ananke'
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+params:
+  description: Rask Techblog description
+  home:
+    profile:
+      subtitle: "" # Rask Techblog subtitle

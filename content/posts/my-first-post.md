@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Let's try this!"
-tags: n00b github
-categories: github welcome
+date: 2025-04-04T21:28:04+02:00
+draft: true
+title: My First Post
 ---
 
 # Let's try this!
