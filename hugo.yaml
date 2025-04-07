@@ -1,10 +1,9 @@
 baseURL: https://rask.dk/techblog
 languageCode: en
-title: Rasmus Rask
+title: Rasmus Rask's Tech Blog
 theme: loveit
 enableEmoji: true
 enableGitInfo: true
-frontmatterFormat: yaml
 
 caches:
   images:
@@ -38,6 +37,7 @@ params:
   author:
     name: Rasmus
   dateFormat: 2. January 2006
+  defaultTheme: light
   footer:
     since: 1982
     license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
