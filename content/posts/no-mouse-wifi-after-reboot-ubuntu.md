@@ -4,11 +4,11 @@ title: 'No mouse, Wi-Fi (or much else really) after rebooting Ubuntu 24.04 LTS'
 tags: ["Ubuntu", "Linux"]
 ---
 
-I rebooted my functioning laptop, running Ubuntu 24.04 LTS, Thursday night. When it booted again, it had no detected mouse/trackpad, Wi-Fi, ethernet, Bluetooth or soundcard - pretty much all peripherals.
-
-Several reboots and power cycles didn’t make any difference. Fairly limiting experience. Do not recommend.
+I rebooted my functioning laptop, running Ubuntu 24.04 LTS, Thursday night. When it booted again, it had no detected mouse/trackpad, Wi-Fi, ethernet, Bluetooth or soundcard. Fairly limiting experience. Do not recommend.
 
 <!--more-->
+
+Several reboots and power cycles didn’t make any difference.
 
 ## Failed attempts at rolling back kernel
 

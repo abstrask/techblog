@@ -3,6 +3,7 @@ languageCode: en
 title: Rasmus Rask
 theme: loveit
 enableEmoji: true
+enableGitInfo: true
 frontmatterFormat: yaml
 
 caches:
@@ -49,7 +50,7 @@ params:
 
   home:
     profile:
-      subtitle: "A blog mostly about cloud/platform enigneering and DevOps."
+      subtitle: "A blog mostly about cloud/platform enigneering and DevOps"
       typeit: false
   page:
     share:
