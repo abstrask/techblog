@@ -43,8 +43,8 @@ jobs:
 
         # The example workflow above includes this step, which typically takes 10‑15 seconds
         # You may remove this step if your site, themes, and modules do not transpile Sass to CSS using the Dart Sass transpiler.
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
+      # - name: Install Dart Sass
+      #   run: sudo snap install dart-sass
 
       - name: Checkout
         uses: actions/checkout@v4
