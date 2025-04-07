@@ -7,6 +7,7 @@ tags: ["Linux", "Tailscale", "Ubuntu"]
 When running `tailscale up` after reboots on my Ubuntu laptop acting as a subnet router, I would get this performance warning:
 
 > Warning: UDP GRO forwarding is suboptimally configured on wl0, UDP forwarding throughput capability will increase with a configuration change.
+>
 > See https://tailscale.com/s/ethtool-config-udp-gro
 
 Following the recommendations didn't seem to persist the suggested configuration changes after reboots though :thinking:
