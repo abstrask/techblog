@@ -1,16 +1,81 @@
 baseURL: https://rask.dk/techblog
-languageCode: en-uk
-title: Rask Techblog
-# theme: 'poison'
+languageCode: en
+title: Rasmus Rask
 theme: loveit
-# theme: 'ananke'
+enableEmoji: true
+frontmatterFormat: yaml
 
 caches:
   images:
     dir: :cacheDir/images
 
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      pre: <i class='fas fa-clipboard fa-fw' aria-hidden='true'></i>
+      url: /posts/
+      weight: 1
+      # https://fontawesome.com/v4/icon/tags
+    - identifier: tags
+      name: Tags
+      pre: <i class='fas fa-tags fa-fw' aria-hidden='true'></i>
+      url: /tags/
+      weight: 2
+    - identifier: about
+      name: About me
+      pre: <i class='fas fa-circle-user fa-fw' aria-hidden='true'></i>
+      url: /about/
+      weight: 3
+    - identifier: github
+      pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
+      url: https://github.com/abstrask
+      weight: 4
+      title: GitHub
+
 params:
-  description: Rask Techblog description
+  author:
+    name: Rasmus
+  dateFormat: 2. January 2006
+  footer:
+    since: 1982
+    license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
+
+  header:
+    title:
+      name: Rasmus Rask
+      pre: <i class='fas fa-code fa-fw' aria-hidden='true'></i>
+      # fa-power-off, fa-plug, fa-code
+
   home:
     profile:
-      subtitle: "" # Rask Techblog subtitle
+      subtitle: "A blog mostly about cloud/platform enigneering and DevOps."
+      typeit: false
+  page:
+    share:
+      enable: false
+
+  # https://hugoloveit.com/theme-documentation-basics/#52-search-configuration
+  search:
+    enable: true
+    type: lunr # algolia
+    contentLength: 4000
+    placeholder: ""
+    maxResultLength: 10
+    snippetLength: 30
+    highlightTag: em
+    algolia:
+      appID: ""
+      apiKey: ""
+      indexName: ""
+    absoluteURL: false
+
+  section:
+    dateFormat: 2. Jan
+
+  list:
+    dateFormat: 2. Jan
+
+  social:
+    github: abstrask
+  title: Rasmus Rask
