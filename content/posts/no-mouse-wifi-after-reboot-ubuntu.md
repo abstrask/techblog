@@ -1,6 +1,5 @@
 ---
 date: '2025-04-06T14:27:24+02:00'
-draft: true
 title: 'No mouse, Wi-Fi (or much else really) after rebooting Ubuntu 24.04 LTS'
 tags: ["Ubuntu", "Linux"]
 ---
