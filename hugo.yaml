@@ -34,13 +34,11 @@ menu:
       title: GitHub
 
 params:
+  title: Rasmus Rask
   author:
     name: Rasmus
   dateFormat: 2. January 2006
   defaultTheme: light
-  footer:
-    since: 1982
-    license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
 
   header:
     title:
@@ -48,13 +46,28 @@ params:
       pre: <i class='fas fa-code fa-fw' aria-hidden='true'></i>
       # fa-power-off, fa-plug, fa-code
 
+  footer:
+    since: 1982
+    license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
+
   home:
     profile:
       subtitle: "A blog mostly about cloud/platform enigneering and DevOps"
       typeit: false
+
   page:
     share:
       enable: false
+
+  section:
+    dateFormat: 2. Jan
+
+  list:
+    dateFormat: 2. Jan
+
+  social:
+    github: abstrask
+    linkedin: rasmusrask
 
   # https://hugoloveit.com/theme-documentation-basics/#52-search-configuration
   search:
@@ -70,13 +83,3 @@ params:
       apiKey: ""
       indexName: ""
     absoluteURL: false
-
-  section:
-    dateFormat: 2. Jan
-
-  list:
-    dateFormat: 2. Jan
-
-  social:
-    github: abstrask
-  title: Rasmus Rask
