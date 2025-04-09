@@ -2,6 +2,8 @@
 title: About me
 ---
 
+{{< image src="/images/portrait.jpg" alt="Portrait photo" linked="false" position="center" >}}
+
 ## Resumé
 
 As a seasoned Senior Cloud Engineer, I architect and deploy robust, scalable cloud-native solutions using AWS, Kubernetes, and Terraform.
