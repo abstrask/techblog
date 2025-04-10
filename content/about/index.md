@@ -28,7 +28,8 @@ TL;DR: I have been living and breathing AWS, Kubernetes ([since 1.9](https://kub
 ## Other achievements
 
 - Created [**Flux Helm Diff**](https://github.com/marketplace/actions/flux-helm-diff). A GitHub Action that renders [Flux CD](https://fluxcd.io/) Helm manifests on pull requests, 100% client-side, and posts the diff as a [comment on the PR](https://github.com/marketplace/actions/flux-helm-diff#example-outputpr-comment)
-- Identified and documented a [bug in **Kubernetes Cluster Autoscaler**](https://github.com/kubernetes/autoscaler/issues/6481), together with my colleague, [Willi Carlsen](https://wcarlsen.github.io/). Then worked with him to [develop af fix](https://github.com/kubernetes/autoscaler/pull/6482), which was included in release [1.31.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.31.0).
+- Identified and documented a [bug in **Kubernetes Cluster Autoscaler**](https://github.com/kubernetes/autoscaler/issues/6481), together with my colleague, {{< person url="https://wcarlsen.github.io/" name="Willi Carlsen" picture="https://avatars.githubusercontent.com/u/17003032" >}}. Then worked with him to [develop af fix](https://github.com/kubernetes/autoscaler/pull/6482), which was included in release [1.31.0](https://github.com/kubernetes/autoscaler/releases/tag/cluster-autoscaler-1.31.0).
+- Certified Kubernetes Administrator (CKA) in 2020
 
 ## Recent Experience
 
