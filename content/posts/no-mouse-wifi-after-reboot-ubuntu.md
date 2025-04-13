@@ -30,7 +30,7 @@ By now, I had given up on it, and was mentally preparing to reinstall, and set S
 
 ## Salvation!
 
-Before beginning to reinstall, I came across a fellow Ubuntu user, also using TPM-backed full-disk encryption, that [seems to have encountered the same issue](https://discourse.ubuntu.com/t/no-networking-after-some-upgrade-on-24-04-2-on-a-framework-16-late-2024-setup-with-secure-boot-the-tpm-for-fde/58387) around the same day.
+Before beginning to reinstall, I came across a fellow Ubuntu user, also using TPM-backed full-disk encryption (FDE), who [seems to have encountered the same issue](https://discourse.ubuntu.com/t/no-networking-after-some-upgrade-on-24-04-2-on-a-framework-16-late-2024-setup-with-secure-boot-the-tpm-for-fde/58387) around the same day.
 
 The solution seems simple - just run:
 
