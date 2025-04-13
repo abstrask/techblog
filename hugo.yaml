@@ -52,7 +52,7 @@ params:
 
   home:
     profile:
-      subtitle: "A blog mostly about cloud/platform enigneering and DevOps"
+      subtitle: "A blog mostly about cloud/platform enigneering, DevOps and home labbing"
       typeit: false
 
   page:
