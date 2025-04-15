@@ -32,6 +32,12 @@ menu:
       url: https://github.com/abstrask
       weight: 4
       title: GitHub
+    # - identifier: rss
+    #   # would like to open in new tab
+    #   pre: <i class='fas fa-square-rss fa-fw' aria-hidden='true'></i>
+    #   url: ./posts/index.xml
+    #   weight: 5
+    #   title: RSS
 
 params:
   title: Rasmus Rask
@@ -39,6 +45,7 @@ params:
     name: Rasmus
   dateFormat: 2. January 2006
   defaultTheme: light
+  description: "A blog mostly about cloud/platform enigneering, DevOps and home labbing"
 
   header:
     title:
@@ -68,6 +75,8 @@ params:
   social:
     github: abstrask
     linkedin: rasmusrask
+    rss:
+      url: ./index.xml
 
   # https://hugoloveit.com/theme-documentation-basics/#52-search-configuration
   search:
