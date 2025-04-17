@@ -30,7 +30,7 @@ I'm going to show you how this can be done for Docker Hub declaritively using Te
 
 ## Basic setup
 
-First we'll define define the variables for the Dockuer Hub pull secrets, as well as the prefix to use for the cache. The prefix is used for the path to the pull secrets in Secrets Manager, ECR cache prefix and optionally for the access policy.
+First we'll define define the variables for the Docker Hub pull secrets, as well as the prefix to use for the cache. The prefix is used for the path to the pull secrets in Secrets Manager, ECR cache prefix and optionally for the access policy.
 
 ```hcl
 variable "docker_cache_username" {
