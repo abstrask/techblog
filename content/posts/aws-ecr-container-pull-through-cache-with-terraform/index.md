@@ -117,7 +117,7 @@ See also [Pulling an image with a pull through cache rule in Amazon ECR](https:/
 
 You must use an AWS IAM context (e.g. role, user or instance profile) that has the `ecr:BatchImportUpstreamImage` permission.
 
-For EKS nodes, if you're using the Terraform community EKS module's [`eks-managed-node-group` sub-module](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest/submodules/eks-managed-node-group), you can pass the follwoing `iam_role_policy_statements`:
+For EKS nodes, if you're using the Terraform community EKS module's [`eks-managed-node-group` sub-module](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest/submodules/eks-managed-node-group), you can pass the following `iam_role_policy_statements`:
 
 ```hcl
 iam_role_policy_statements = [
