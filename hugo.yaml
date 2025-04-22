@@ -65,6 +65,8 @@ params:
   page:
     share:
       enable: false
+    code:
+      maxShownLines: 50
 
   section:
     dateFormat: 2. Jan
