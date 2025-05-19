@@ -5,7 +5,7 @@ title: 'Email relay/proxy on Linux, or in FreeBSD jail, with TLS and authenticat
 tags: ["Linux", "Email", "FreeBSD", "TrueNAS"]
 ---
 
-My mum has solar panels on her roof, and an inverter that sends daily production summaries and alerts by email. But its SMTP client *does* support authentication, it does not support TLS. And I'm not sending email credentials in clear text over the internet.
+My mum has solar panels on her roof, and an inverter that sends daily production summaries and alerts by email. But while its SMTP client *does* support authentication, it does not support TLS. And I'm not sending email credentials in clear text over the internet.
 
 Luckily, there's [E-MailRelay](https://emailrelay.sourceforge.net/): "a lightweight SMTP store-and-forward mail server". It's cross-platform too.
 
