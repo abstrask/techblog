@@ -45,5 +45,5 @@ However, now I had tripped TPM, requiring me to enter the 47 character long LUKS
 At last, my computer was able to boot again with full hardware support!
 
 {{< admonition type=info >}}
-[Bug #2104933 in `pc-kernel-snap`](https://bugs.launchpad.net/pc-kernel-snap/+bug/2104933) seems to track the same issue I had. One of the comment state: "Workaround included in snapd 2.68.4".
+[Bug #2104933 in `pc-kernel-snap`](https://bugs.launchpad.net/pc-kernel-snap/+bug/2104933) seems to track the same issue. One of the comments states: "Workaround included in snapd 2.68.4".
 {{< /admonition >}}
