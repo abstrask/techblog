@@ -4,7 +4,7 @@ title: 'Persist Linux optimisations for Tailscale subnet routers and exit nodes'
 tags: ["Linux", "Tailscale", "Ubuntu"]
 ---
 
-When running `tailscale up` after reboots on my Ubuntu laptop acting as a subnet router, I would get this performance warning:
+When running `tailscale up` after rebooting my Ubuntu laptop acting as a subnet router, I would get this performance warning:
 
 > Warning: UDP GRO forwarding is suboptimally configured on wl0, UDP forwarding throughput capability will increase with a configuration change.
 >
