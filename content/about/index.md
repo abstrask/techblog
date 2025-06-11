@@ -53,7 +53,9 @@ As we grow, we meet and overcome new limitations all the time, while continuing 
 
 Part of the Cloud Engineering team in DFDS. We strive to pave the road, letting all DFDS' developers deliver their software on Kubernetes and AWS faster and easier.
 
-Designing, building, operating Kubernetes clusters. Automation and Infrastructure-as-code, primarily through Terraform, but also PowerShell, Bash scripts and pipelines. Spend most of my time these days in Amazon Web Services, but also experience with Azure.
+Designing, building, operating Kubernetes clusters. Automation and Infrastructure-as-code, primarily through Terraform, but also PowerShell, Bash scripts and pipelines.
+
+Spend most of my time these days in Amazon Web Services, but also experience with Azure (Azure AD/Entra, access management, hybrid networking, web apps, StorSimple hybrid file-server etc.).
 
 ### Earlier
 
