@@ -16,9 +16,9 @@ I'm one of the main architects of our internal EKS Kubernetes-based platform "wi
 
 As a DevOps advocate, I offer internal consultancy on AWS cloud best practices, guiding teams to architect secure, scalable, and cost-effective solutions.
 
-I consider myself an expert in Terraform, rigorously defining infrastructure-as-code, and automating processes using tools like GitHub Actions, Python, and FaaS.
+I consider myself an expert in Terraform, rigorously defining infrastructure-as-code, and automating processes using tools like GitHub Actions, Python, and FaaS. Grafana - both self-hosted and Grafana Cloud - has been my observability tool of choice since the beginning, so I'm well-versed in PromQL and CloudWatch Metrics queries, as well as configuring and managing Grafana itself.
 
-TL;DR: I have been living and breathing AWS, Kubernetes ([since 1.9](https://kubernetes.io/blog/2017/12/kubernetes-19-workloads-expanded-ecosystem/), AWS EKS [since launch day](https://aws.amazon.com/blogs/aws/amazon-eks-now-generally-available/)), Terraform ([since 0.11](https://www.hashicorp.com/en/blog/hashicorp-terraform-0-11)) and automation since 2018, on top of 18 years as a SysAdmin.
+TL;DR: I have been living and breathing AWS, Kubernetes ([since 1.9](https://kubernetes.io/blog/2017/12/kubernetes-19-workloads-expanded-ecosystem/), AWS EKS [since launch day](https://aws.amazon.com/blogs/aws/amazon-eks-now-generally-available/)), Terraform ([since 0.11](https://www.hashicorp.com/en/blog/hashicorp-terraform-0-11)), Grafana and automation since 2018, on top of 18 years as a SysAdmin.
 
 ## Main skills
 
@@ -26,7 +26,7 @@ TL;DR: I have been living and breathing AWS, Kubernetes ([since 1.9](https://kub
 - Amazon Web Services
 - Terraform
 - Platform Engineering
-- Grafana Cloud
+- Grafana (Cloud)
 
 ## Other achievements
 
