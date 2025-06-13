@@ -12,7 +12,7 @@ As a seasoned Senior Cloud Engineer, I architect and deploy robust, scalable clo
 
 The foundation for this, I achieve through an AWS "account factory" with preconfigured DNS domain delegation, OIDC providers, IAM and global backup policies. This makes it easy for teams to get a place to run their apps, while reducing blast radius to each account.
 
-I'm also one of the main architects of our internal EKS Kubernetes-based platform "with batteries included", equipped with features such as support for AI/GPU workloads, auto-scaling (including to/from zero), long-running batch jobs, declarative blue/green node groups, spot instances, and more. We also manage the full life-cycle of these clusters.
+I'm one of the main architects of our internal EKS Kubernetes-based platform "with batteries included", equipped with features such as support for AI/GPU workloads, auto-scaling (including to/from zero), long-running batch jobs, declarative blue/green node groups, spot instances, and more. We also manage the full life-cycle of these clusters, keeping up all components up-to-date with a minimum of manual intervention.
 
 As a DevOps advocate, I offer internal consultancy on AWS cloud best practices, guiding teams to architect secure, scalable, and cost-effective solutions.
 
