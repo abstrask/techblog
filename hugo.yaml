@@ -22,10 +22,10 @@ menu:
       pre: <i class='fas fa-tags fa-fw' aria-hidden='true'></i>
       url: /tags/
       weight: 2
-    - identifier: about
+    - identifier: me
       name: About me
       pre: <i class='fas fa-circle-user fa-fw' aria-hidden='true'></i>
-      url: /about/
+      url: /me/
       weight: 3
     - identifier: github
       pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
